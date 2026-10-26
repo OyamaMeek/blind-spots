@@ -21,6 +21,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`、`memory/gotchas.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`708772acf243cc198c9cfcfe7db881a632653b49 docs: archive four questions on equivalent infinitesimal substitution`，已推送至 `origin/main`。
 
 ---

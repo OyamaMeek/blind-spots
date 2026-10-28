@@ -24,3 +24,26 @@
 - **Git 提交**：`708772acf243cc198c9cfcfe7db881a632653b49 docs: archive four questions on equivalent infinitesimal substitution`，已推送至 `origin/main`。
 
 ---
+
+## [2026-10-28 22:21] 归档 C 自增与自减笔记
+
+- **需求/问题描述**：
+  > 整理用户提供的 Notion 截图中关于自增、自减运算的内容。
+
+- **实际实现的功能与改动**：
+  - 新增 C 知识笔记，转录原代码与输出，整理四种运算的对照表、逐句执行过程及可迁移的教训；保存原始截图并引用。
+  - 区分表达式值与变量最终值；没有错误过程或具体疑问，不填写错因、掌握程度或本人理解。
+  - 使用 Apple Clang 17.0.0 按 C17 编译运行，输出与截图一致；四组运算断言、YAML、章节、图片链接和图片 SHA-256 一致性检查通过。
+  - 原示例 `int main()` 产生一条 `-Wstrict-prototypes` 警告，已在笔记中注明；未执行复习流程或额外视觉验证。
+  - 验证中间文件位于 `.agent/work/` 并由 `.gitignore` 排除；更新计划、进度与验证记录。`git diff --check` 通过。
+
+- **涉及文件**：
+  - `programming/c/2026-10-28-自增与自减.md`
+  - `assets/2026-10-28-自增与自减-1.png`
+  - `.gitignore`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

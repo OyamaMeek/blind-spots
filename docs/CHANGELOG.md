@@ -69,6 +69,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交；归档内容与文档检查已完成。
+- **Git 提交**：`f905c14f0aa03b8aecd126a1c7b09ad18df32fdd docs: archive derivative definition and differentiability notes`，已推送至 `origin/main`。自动审批曾拒绝推送；用户了解目标为公开仓库并明确确认后，普通推送成功。实际提交哈希由后续文档提交补记。
 
 ---

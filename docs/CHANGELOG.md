@@ -125,6 +125,6 @@
   - `memory/gotchas.md`、`memory/progress.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`21bc2dcb71f43e13b29bcdfa3a96d7943b0efaeb docs: organize questions by subject directory`，已推送至 `origin/main`；实际提交哈希通过后续文档提交补记。
 
 ---

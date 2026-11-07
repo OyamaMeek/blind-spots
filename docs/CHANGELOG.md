@@ -109,3 +109,22 @@
 - **Git 提交**：`1801d093a2323c9177f18f5ea7299551d9f9dbda docs: archive C++ problem 1003 review checklist`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-07 13:07] 按需创建归档目录的规则
+
+- **需求/问题描述**：
+  > 将按需创建文件夹并写入对应目录的规则写入 AGENTS.md。
+
+- **实际实现的功能与改动**：
+  - 疑问、错题和知识笔记按科目与主题归档，优先复用目录，缺少合适目录时按需创建文件夹。
+  - 更新疑问命名、处理和期末复盘约定，同步 `CLAUDE.md`；`questions/` 保留现有历史记录。
+  - 验证：`cmp AGENTS.md CLAUDE.md` 和 `git diff --check` 通过；已检查差异范围，仅修改归档规则及协作记录，未迁移现有疑问。
+
+- **涉及文件**：
+  - `AGENTS.md`、`CLAUDE.md`
+  - `memory/gotchas.md`、`memory/progress.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

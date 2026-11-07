@@ -14,7 +14,7 @@ math/
   probability/         概率论与数理统计
 programming/
   c/  cpp/  python/  java/     每种语言一个目录；新语言直接新建目录（小写，如 rust/、go/）
-questions/             "不理解的地方"，一个疑问一个文件，弄懂后关闭
+questions/             历史疑问记录；新疑问写入对应科目目录
 reports/               期末复盘报告与练习题
 assets/                题目截图、手写过程照片
 templates/             math.md / code.md / question.md
@@ -25,7 +25,8 @@ scripts/review.py      列出今日待复习 / 统计错因
 
 - 错题：`<目录>/YYYY-MM-DD-<简短主题>.md`，如 `math/linear-algebra/2026-10-26-相似对角化.md`、
   `programming/c/2026-10-26-数组越界.md`
-- 疑问：`questions/YYYY-MM-DD-<简短主题>.md`
+- 疑问：`<对应科目目录>/YYYY-MM-DD-<简短主题>.md`，如 `math/analysis/2026-11-05-左右导数与可导性.md`。
+- 整理疑问、错题和知识笔记时，先确定所属科目与主题，优先复用对应目录；缺少合适目录时按需创建文件夹并写入，需要细分主题时在科目目录下创建子文件夹。
 - 图片：`assets/YYYY-MM-DD-<简短主题>-<序号>.png`，正文里用相对路径引用
 - 重名时末尾加 `-2`、`-3`
 
@@ -75,7 +76,7 @@ scripts/review.py      列出今日待复习 / 统计错因
 
 ## 处理"不理解的地方"
 
-- 按 `templates/question.md` 建文件，`status: open`。
+- 按 `templates/question.md` 在对应科目目录或其主题子文件夹中建文件，一个疑问一个文件，`status: open`，弄懂后关闭。
 - 讲解前先确认我卡在哪一层（定义？推导的哪一步？直觉？代码执行模型？），再针对性地讲。
 - 编程相关的疑问，尽量写一个最小可运行例子，跑给我看。
 - 我说"懂了"之后，让我用自己的话复述；复述没问题再写好"我的理解"，`status` 改为 `closed`。
@@ -93,7 +94,7 @@ scripts/review.py      列出今日待复习 / 统计错因
 
 1. 确认范围：哪几门课、从哪天开始（不知道就问我），运行
    `python3 scripts/review.py --stats --since <日期> [--subject <科目>]`。
-2. 通读范围内的错题和 questions/（包括已关闭的），写 `reports/YYYY-<学期>-复盘.md`：
+2. 通读范围内各科目目录及其子文件夹中的错题、疑问，以及 `questions/` 中的历史疑问（包括已关闭的），写 `reports/YYYY-<学期>-复盘.md`：
    - **疑惑点清单**：按 科目 → 知识点 归类，每条一句话说清"我当时不懂的是什么"，
      标注是否已解决并链接原文件；仍为 open 的排最前。
    - **薄弱环节**：每门课 2–4 个最该补的点，说明依据（哪几道题、什么错因）。

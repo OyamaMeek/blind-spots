@@ -88,6 +88,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`818f4f62ce29f719730b8328c27c08a4f267fc3d docs: archive C conditional expression questions`，已推送至 `origin/main`。
 
 ---

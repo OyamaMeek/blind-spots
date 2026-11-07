@@ -72,3 +72,22 @@
 - **Git 提交**：`f905c14f0aa03b8aecd126a1c7b09ad18df32fdd docs: archive derivative definition and differentiability notes`，已推送至 `origin/main`。自动审批曾拒绝推送；用户了解目标为公开仓库并明确确认后，普通推送成功。实际提交哈希由后续文档提交补记。
 
 ---
+
+## [2026-11-07 11:28] 归档 C 条件表达式的两条疑问
+
+- **需求/问题描述**：
+  > 整理第（5）题的条件真假判断和第（6）题的嵌套条件表达式。
+
+- **实际实现的功能与改动**：
+  - 分别归档两条 `open` 疑问，保留原表达式和给定数值，补充示例与分支求值过程。
+  - 验证：两个 C17 示例在 Apple Clang 17.0.0 下无警告编译，运行结果与文档一致。YAML、模板章节、三个内部链接及 `git diff --check` 检查通过。
+
+- **涉及文件**：
+  - `questions/2026-11-07-C条件表达式的真假判断.md`
+  - `questions/2026-11-07-C嵌套条件表达式的结合性.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

@@ -91,3 +91,21 @@
 - **Git 提交**：`818f4f62ce29f719730b8328c27c08a4f267fc3d docs: archive C conditional expression questions`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-07 11:36] 归档 C++ 1003 最大连续区间和复习清单
+
+- **需求/问题描述**：
+  > 将 1003 最大连续区间和的复习清单写入仓库，归为 C++。
+
+- **实际实现的功能与改动**：
+  - 保存三条已提出的疑问、五条待自测项和逐元素手算练习，说明相同区间和时的更新行为。
+  - Ruby 标准库核对 YAML 和清单结构通过，`git diff --check` 通过。材料未附 C++ 源代码，未运行程序。
+
+- **涉及文件**：
+  - `programming/cpp/2026-11-07-1003-最大连续区间和.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

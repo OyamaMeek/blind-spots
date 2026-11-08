@@ -146,6 +146,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交；验证已完成，尚未执行提交与推送。
+- **Git 提交**：`49a1e0ba93c1c8c01554d25cc242af308197da79 docs: archive skew-symmetric matrix product proof`，已推送至 `origin/main`；实际提交哈希通过后续文档提交补记。
 
 ---

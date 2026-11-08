@@ -1,5 +1,10 @@
 # 协作环境
 
+## 2026-11-09：反对称矩阵乘积的充要条件
+
+- 使用 Codex、终端工具和 Ruby 标准库归档、检查 Markdown 及矩阵恒等式；使用 `using-superpowers`、`ponytail`、`verification-before-completion` 技能。
+- 分支与已有推送目标为 `main`、`origin/main`；不使用子代理或视觉工具，验证中间文件放入已忽略的 `.agent/work/`。
+
 ## 2026-11-07 · C++ 1003 最大连续区间和
 
 - 使用 Codex 和 Ruby 标准库归档并检查 Markdown，当前分支和推送目标为 `main` 与 `origin/main`。

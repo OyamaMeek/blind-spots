@@ -1,5 +1,10 @@
 # 协作环境
 
+## 2026-11-10：第 235 题
+
+- 使用 Codex、FFmpeg 与 Ruby 标准库归档题图、核查 Markdown 和差商；使用 Superpowers 的完成前验证流程。
+- 分支为 `main`，推送目标为 `origin/main`。
+
 ## 2026-11-10：第 236 题
 
 - 使用 Codex、终端与 Ruby 标准库整理并检查错题 Markdown，采用 `using-superpowers` 和 `verification-before-completion` 技能。

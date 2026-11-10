@@ -185,6 +185,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `191710abfdda1995f3894d15baeb13696c85b115 docs: archive problem 235 derivative exercise`，已推送至 `origin/main`。
 
 ---

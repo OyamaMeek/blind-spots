@@ -188,3 +188,23 @@
 - **Git 提交** `191710abfdda1995f3894d15baeb13696c85b115 docs: archive problem 235 derivative exercise`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-10 23:11] 归档课堂例 4.2
+
+- **需求/问题描述**
+  > 将照片中的课堂例 4.2 整理进仓库。
+
+- **实际实现的功能与改动**
+  - 在数学分析目录保存完整题面和去除元数据的课堂照片，作为待复习例题。个人解题过程和错因待补充。
+  - 由乘积求导构造辅助函数，逐项验证罗尔定理的条件，给出完整证明与复习要点。
+  - YAML、章节、公式块、图片链接和有理数样例核对通过。归档图片与原图的 RGB 像素哈希一致。`git diff --check` 通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-10-例4.2-构造辅助函数应用罗尔定理.md`
+  - `assets/2026-11-10-例4.2-构造辅助函数应用罗尔定理-1.png`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

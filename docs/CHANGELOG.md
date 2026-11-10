@@ -149,3 +149,22 @@
 - **Git 提交**：`49a1e0ba93c1c8c01554d25cc242af308197da79 docs: archive skew-symmetric matrix product proof`，已推送至 `origin/main`；实际提交哈希通过后续文档提交补记。
 
 ---
+
+## [2026-11-10 23:02] 归档第 236 题
+
+- **需求/问题描述**
+  > 整理第 236 题中识别幂指极限、构造第二个重要极限和凑导数差商的思路。
+
+- **实际实现的功能与改动**
+  - 依据学习总结复原题面，记录最初的思路卡点和后来独立完成的差商拆分。错因记为「思路卡住」。
+  - 补齐底数为正、去心邻域内 $u\ne0$ 及左右两侧的推导，得到极限 $e^2$。
+  - Ruby 检查 YAML、必需章节、公式块及四个正负邻近点的计算通过。`git diff --check` 通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-10-第236题-幂指极限与导数定义.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

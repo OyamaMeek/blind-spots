@@ -1,5 +1,10 @@
 # 协作环境
 
+## 2026-11-10：第 236 题
+
+- 使用 Codex、终端与 Ruby 标准库整理并检查错题 Markdown，采用 `using-superpowers` 和 `verification-before-completion` 技能。
+- 分支为 `main`，推送目标为 `origin/main`，核查脚本位于已忽略的 `.agent/work/`。
+
 ## 2026-11-09：反对称矩阵乘积的充要条件
 
 - 使用 Codex、终端工具和 Ruby 标准库归档、检查 Markdown 及矩阵恒等式；使用 `using-superpowers`、`ponytail`、`verification-before-completion` 技能。

@@ -165,6 +165,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `d4f8297398c939f4f58c5734f1e959632c04ea22 docs: archive problem 236 power limit`，已推送至 `origin/main`。
 
 ---

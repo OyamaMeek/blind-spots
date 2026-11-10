@@ -205,6 +205,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `acb1a2bf04ddb630765d0f83a4d5a91c59ae884f docs: archive classroom example on Rolle theorem`，已推送至 `origin/main`。
 
 ---

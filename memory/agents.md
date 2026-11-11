@@ -1,5 +1,10 @@
 # 协作环境
 
+## 2026-11-11：第 249 题
+
+- 使用 Codex 和 Ruby 标准库整理并检查错题，采用 Superpowers 的完成前验证流程。
+- 分支为 `main`，推送目标为 `origin/main`。
+
 ## 2026-11-10：课堂例 4.2
 
 - 使用 Codex、FFmpeg、FFprobe 和 Ruby 标准库归档并验证，使用 Superpowers 的完成前验证流程。

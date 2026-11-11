@@ -208,3 +208,22 @@
 - **Git 提交** `acb1a2bf04ddb630765d0f83a4d5a91c59ae884f docs: archive classroom example on Rolle theorem`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-11 12:35] 归档第 249 题
+
+- **需求/问题描述**
+  > 将第 249 题的错题与知识盲点总结整理进仓库。
+
+- **实际实现的功能与改动**
+  - 在数学分析目录保存错题，记录原函数和反函数的一阶导数混淆、分式化简与求导变量问题。原题函数式和所求表达式标为待补。
+  - 用复合函数写法解释链式法则中的内层导数，补充反函数二阶导数通用公式及适用条件。状态为「未掌握」，主错因为「概念不清」。
+  - YAML、必需章节、公式块和四个有理数样例检查通过。`git diff --check` 通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-11-第249题-反函数的二阶导数.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

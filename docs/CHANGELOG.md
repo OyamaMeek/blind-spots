@@ -227,3 +227,22 @@
 - **Git 提交** `2bd1ff7f47dbe53c7fa01e5c9fc96b900dc3fef2 docs: archive problem 249 inverse function derivatives`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-11 18:37] 归档第（5）题的不定积分
+
+- **需求/问题描述**
+  > 将第（5）题的错题和知识点总结整理进仓库。
+
+- **实际实现的功能与改动**
+  - 根据学习总结复原题面，记录漏查分子的对数误用、反正切识别和换元系数，状态为「未掌握」，主错因为「概念不清」。
+  - 给出 $a\ne0$ 的换元推导与 $a=0$ 的原函数，补充积分常数可在零点两侧分别取值，保留原函数识别表。
+  - YAML、章节、公式块、识别表和八组求导数值交叉检查通过。`git diff --check` 通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-11-第5题-平方和分母的不定积分.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

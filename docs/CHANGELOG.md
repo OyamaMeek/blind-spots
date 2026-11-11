@@ -243,6 +243,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `f7a39ed74f069cce91d5718b08d88b0cd99e4ab2 docs: archive arctangent integral exercise`，已推送至 `origin/main`。
 
 ---

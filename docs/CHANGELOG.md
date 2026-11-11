@@ -224,6 +224,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `2bd1ff7f47dbe53c7fa01e5c9fc96b900dc3fef2 docs: archive problem 249 inverse function derivatives`，已推送至 `origin/main`。
 
 ---

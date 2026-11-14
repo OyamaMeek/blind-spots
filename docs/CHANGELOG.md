@@ -316,6 +316,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`da118ad2b226b25f64cc4cc53e71738d8a8cd6b9 docs: archive higher derivatives and infinitesimal review`，已在本地提交。
 
 ---

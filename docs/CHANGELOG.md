@@ -388,6 +388,6 @@
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `aaacc7187f999fe26dd35f3931f79a49cb2455ae docs: archive piecewise derivative review`，已在本地提交。
 
 ---

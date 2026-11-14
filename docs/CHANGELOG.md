@@ -298,6 +298,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**：待提交。
+- **Git 提交**：`80f62deafda4d184db8a6123a7ae0bb8ae4a11de docs: archive problem 8 derivative limit`，已推送至 `origin/main`。
 
 ---

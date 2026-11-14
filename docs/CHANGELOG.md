@@ -337,3 +337,21 @@
 - **Git 提交**：`e4097f3bed4c9c542f3da371de932020f0bf76b5 docs: archive problem 11 on Rolle theorem`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 15:56] 归档第 12 题的辅助函数疑问
+
+- **需求/问题描述**
+  > 将第 12 题中没有想通的辅助函数构造过程整理进错题仓库。
+
+- **实际实现的功能与改动**
+  - 记录端点连线作差、由二阶导数倒推三个零点、用待定系数补零点三处卡点，保留疑问的 `open` 状态。
+  - 复核两轮罗尔定理的条件。Ruby 检查文档结构、公式块、链接和九组有理数验算样例通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-14-第12题-如何构造辅助函数补出第三个零点.md`
+  - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`、`memory/gotchas.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**　待提交。
+
+---

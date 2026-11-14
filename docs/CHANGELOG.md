@@ -406,6 +406,6 @@
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `a9784cdb46c43578146c5cfacecc7b76e4c820b7 docs: archive problem 12 Taylor proof`，已推送至 `origin/main`。
 
 ---

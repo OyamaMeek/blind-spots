@@ -370,6 +370,6 @@
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**　待提交。
+- **Git 提交**　`62060f89c22a59f4db2441bf3e31557458888c42 docs: archive limit subtraction and substitution error`，已推送至 `origin/main`。
 
 ---

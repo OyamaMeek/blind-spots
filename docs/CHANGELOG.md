@@ -261,6 +261,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交** 待提交。
+- **Git 提交** `cfd8a08db37cf26362e5064d12145e759cbd392e docs: archive November 13 calculus review`，已推送至 `origin/main`。
 
 ---

@@ -352,6 +352,6 @@
   - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`、`memory/gotchas.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**　待提交。
+- **Git 提交**　`269374a72e8bfdefa21b4fab22c122fe48b5143d docs: archive problem 12 auxiliary function question`，已推送至 `origin/main`。
 
 ---

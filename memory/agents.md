@@ -1,5 +1,10 @@
 # 协作环境
 
+## 2026-11-14：第 8 题
+
+- 使用 Codex、Ruby 标准库与 FFprobe 归档题图、核查 Markdown 和极限，采用 Superpowers 的完成前验证流程。
+- 分支为 `main`，推送目标为 `origin/main`。
+
 ## 2026-11-14：第 4 题
 
 - 使用 Notion 和 GitHub 连接器核对题面，使用 Ruby 标准库核查 Markdown 和有理数计算，采用 Superpowers 的完成前验证流程。

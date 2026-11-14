@@ -282,3 +282,22 @@
 - **Git 提交** `5bcb40780dabc0aeabb31d26953b6404c5c506a4 docs: archive problem 4 inverse and composite derivatives`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 13:55] 归档第 8 题
+
+- **需求/问题描述**：
+  > 整理第 8 题第一次作答时卡住的思路，并区分看解析后写出的过程。
+
+- **实际实现的功能与改动**：
+  - 归档完整题干和原图，保留首次换元与看解析后的解法。解释如何根据给定导数找出差商分母，并沿原换元推得极限 $a^2$。
+  - YAML、章节、公式块、图片链接与字节一致性检查通过，八组双侧步长数值交叉检查通过。`git diff --check` 通过。
+
+- **涉及文件**：
+  - `math/analysis/2026-11-14-第8题-用导数定义求对数差值的极限.md`
+  - `assets/2026-11-14-第8题-用导数定义求对数差值的极限-1.png`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

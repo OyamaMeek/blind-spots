@@ -319,3 +319,21 @@
 - **Git 提交**：`da118ad2b226b25f64cc4cc53e71738d8a8cd6b9 docs: archive higher derivatives and infinitesimal review`，已在本地提交。
 
 ---
+
+## [2026-11-14 15:13] 归档第 11 题
+
+- **需求/问题描述**
+  > 将第 11 题的解题卡点、辅助函数构造和三个薄弱知识点整理归档。
+
+- **实际实现的功能与改动**
+  - 保留拉格朗日中值定理和只减二次项的两种尝试，补齐一次项求法和两轮罗尔定理的适用条件。将复原的题设标为待核对，关联第 272 题。
+  - Ruby 检查 YAML、章节、公式块、复习清单和链接，九组有理数多项式交叉检查通过。回读确认题干、解析与复习清单位于 Notion 题库 11 月 14 日栏目。
+
+- **涉及文件**
+  - `math/analysis/2026-11-14-第11题-二阶导数存在性与罗尔定理.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

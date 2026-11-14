@@ -301,3 +301,21 @@
 - **Git 提交**：`80f62deafda4d184db8a6123a7ae0bb8ae4a11de docs: archive problem 8 derivative limit`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 14:34] 归档高阶导数与等价无穷小复盘
+
+- **需求/问题描述**
+  > 将两道工科数学分析题的错因、推导和复习重点归档。
+
+- **实际实现的功能与改动**
+  - 新增数学分析专题复盘，整理链式法则、主要项抵消、加减同一项及对数差式的二阶主项。分别推导第二题两种括号写法的极限，标注原题括号待核对。
+  - YAML、章节、7 个公式块、2 个相对链接及导数与极限的数值交叉检查通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-14-高阶导数与等价无穷小复盘.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**：待提交。
+
+---

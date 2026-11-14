@@ -373,3 +373,21 @@
 - **Git 提交**　`62060f89c22a59f4db2441bf3e31557458888c42 docs: archive limit subtraction and substitution error`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 19:57] 整理第 11 题的分段函数复习
+
+- **需求/问题描述**
+  > 把分段函数第 11 题的证明过程、六个薄弱点和复习清单整理进本地仓库。
+
+- **实际实现的功能与改动**
+  - 按复盘整理两问题面，补充两次洛必达法则的适用条件及整个实数轴上的连续性证明，保留 0/6 的复习进度。题面完整措辞待核对。
+  - Ruby 核查 YAML、章节、公式块、六个薄弱点和六项复习清单，并用三次多项式进行六组双侧验算。`git diff --check` 通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-14-第11题-分段函数的导数与连续性.md`
+  - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

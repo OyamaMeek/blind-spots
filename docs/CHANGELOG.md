@@ -246,3 +246,21 @@
 - **Git 提交** `f7a39ed74f069cce91d5718b08d88b0cd99e4ab2 docs: archive arctangent integral exercise`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 11:09] 归档 11 月 13 日数学分析复盘
+
+- **需求/问题描述**
+  > 将 11 月 13 日的数学题目复盘整理进仓库。
+
+- **实际实现的功能与改动**
+  - 在数学分析目录记录第 270、271（1）、271（2）、272、275 题的卡点、证明与方法提示，保留薄弱点和复习顺序，将自测界面整理为五条 Markdown 自测。
+  - 核对区间、端点值、辅助函数求导和定理适用条件。Ruby 检查 YAML、章节、公式块、表格、自测、复习顺序及链接通过。补充不等式题标为待补。
+
+- **涉及文件**
+  - `math/analysis/2026-11-13-中值定理与辅助函数复盘.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

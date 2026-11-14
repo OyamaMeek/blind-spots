@@ -264,3 +264,21 @@
 - **Git 提交** `cfd8a08db37cf26362e5064d12145e759cbd392e docs: archive November 13 calculus review`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 13:19] 归档第 4 题
+
+- **需求/问题描述**
+  > 将第 4 题及六处卡点整理进数学分析错题仓库。
+
+- **实际实现的功能与改动**
+  - 转录完整题干和选项，保留求导过程、六处卡点及复习顺序，关联第 249 题。主错因记为「概念不清」，初始状态为「未掌握」。
+  - 对照 Notion 和 GitHub 核对题干。YAML、章节、公式块和相对链接检查通过，以两种有理数计算核对答案 B（2，4）。本次材料包含文字记录，五张手写原图待补。
+
+- **涉及文件**
+  - `math/analysis/2026-11-14-第4题-反函数与复合函数的二阶导数.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交** 待提交。
+
+---

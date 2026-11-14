@@ -355,3 +355,21 @@
 - **Git 提交**　`269374a72e8bfdefa21b4fab22c122fe48b5143d docs: archive problem 12 auxiliary function question`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-14 18:35] 归档极限中的减法与等价替换
+
+- **需求/问题描述**
+  > 整理一道将函数极限值直接代入分子而算错的数学分析题。
+
+- **实际实现的功能与改动**
+  - 保留错误代入、加一减一的推导、自查清单和四项薄弱点，说明误差除以分母后趋于 $-1$ 的影响。
+  - Ruby 检查 YAML、文档结构和链接。Python 检查 8 个双侧样点的三个商与拆分恒等式。`git diff --check` 通过。
+
+- **涉及文件**
+  - `math/analysis/2026-11-14-极限中的减法与等价替换.md`
+  - `memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**　待提交。
+
+---

@@ -424,6 +424,6 @@
   - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
   - `docs/CHANGELOG.md`
 
-- **Git 提交**　待提交。
+- **Git 提交**　`536d4b18cefc2c10b5648d5475298984249f64b4 docs: archive Luogu P5729 C++ notes`，已推送至 `origin/main`。
 
 ---

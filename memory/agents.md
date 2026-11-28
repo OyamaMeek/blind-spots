@@ -1,5 +1,10 @@
 # 协作环境
 
+## 2026-11-28：洛谷 P5729 工艺品制作
+
+- 使用 Codex 整理 Markdown，Ruby 标准库检查笔记结构，Apple Clang 17 编译和运行参考代码。验证中间文件位于已忽略的 `.agent/work/p5729/`。
+- 分支为 `main`，推送目标为 `origin/main`。
+
 ## 2026-11-14：第 11 题
 
 - 使用 Codex 在数学分析目录归档，使用 Notion 连接器同步题库，使用 Ruby 标准库检查 Markdown 和有理数计算。

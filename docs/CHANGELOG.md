@@ -409,3 +409,21 @@
 - **Git 提交** `a9784cdb46c43578146c5cfacecc7b76e4c820b7 docs: archive problem 12 Taylor proof`，已推送至 `origin/main`。
 
 ---
+
+## [2026-11-28 08:55] 归档洛谷 P5729 工艺品制作
+
+- **需求/问题描述**
+  > 将提供的 P5729 讲解和 C++ 参考代码整理进学习仓库。
+
+- **实际实现的功能与改动**
+  - 新增 C++ 知识笔记，整理题面、切割区域重叠的反例、三维数组模拟、复杂度、参考代码和易错点。
+  - Ruby 核查 YAML、题面链接和 6 个章节。Apple Clang 17 用 C++17 编译通过，7 组用例结果符合预期。`git diff --check` 通过。
+
+- **涉及文件**
+  - `programming/cpp/2026-11-28-P5729-工艺品制作.md`
+  - `memory/agents.md`、`memory/plan.md`、`memory/progress.md`、`memory/verify.md`
+  - `docs/CHANGELOG.md`
+
+- **Git 提交**　待提交。
+
+---
